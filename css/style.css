@@ -1,0 +1,77 @@
+body{
+	padding-top: 10px;
+}
+
+.navbar{
+   background-color:aliceblue;
+   font-family: serif;
+}
+
+.navbar-default .navbar-brand{
+	color: #45bcca;
+	font-size: 30px;
+}
+
+.navbar-nav li{
+    font-size: 20px;
+}
+
+
+.jumbotron-intro{
+	background: url(../img/wood-background.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	color: white;
+	
+	overflow: none;
+	font-style:italic;
+	padding-left: 15%;
+	padding-top: 60px;
+	font-family: serif;
+	font-weight: bold;
+	
+}
+
+.jumbotron h2{
+	color: cyan;
+	font-size: 80px;
+}
+
+.subsection {
+	color: midnightblue;
+	font-size: 40px;
+	font-style:italic;
+	font-family: serif;
+}
+
+.protrait{
+     border-radius: 50%;
+     width: 40%;
+     margin-left: 25%;
+     border: groove 3px chocolate;
+     margin-top :5%;
+}
+
+.introSummary li{
+  font-size: 14px;
+}
+
+
+.container{
+ margin-bottom: 20px;
+}
+
+.intro-badge{
+ margin-right: 10px;
+ font-size: 20px;
+ margin-top: 10px;
+}
+
+.thumbnail{
+ width: 100%
+}
+
+.feature{
+ font-size: 12px;
+}
